@@ -12,6 +12,8 @@ This is a collection of scripts and notes so that I can develop Android apps on 
 * XFCE deskop
 * Android command line tools
 * Onboard Keyboard
+* Git
+* Python3
 
 ### XServer SDL Settings:
 * 720x1504 ratio (OnePlus 6T)
