@@ -8,7 +8,7 @@ This is a collection of scripts and notes so that I can develop Android apps on 
 * Hackers Keyboard
 
 ### Termux/Ubuntu Setup:
-* Emacs
+* Emacs - set as termux-file-editor
 * XFCE deskop
 * Android command line tools
 * Onboard Keyboard
