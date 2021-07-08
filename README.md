@@ -15,6 +15,11 @@ This is a collection of scripts and notes so that I can develop Android apps on 
 * Git
 * Python3
 
+### (Alternate) Termux/Alpine Setup:
+* Emacs
+* SXMO desktop
+* See above
+
 ### XServer SDL Settings:
 * 720x1504 ratio (OnePlus 6T)
 
