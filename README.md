@@ -14,6 +14,7 @@ This is a collection of scripts and notes so that I can develop Android apps on 
 * Onboard Keyboard
 * Git
 * Python3
+* qemu-user-static
 
 ### (Alternate) Termux/Alpine Setup:
 * Emacs
